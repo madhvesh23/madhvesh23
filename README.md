@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Technologies, MERN Stack, Digital Ocean, AWS**
 
-- 📫 How to reach me **madhuchokshi23@gmail.com**
+- 📫 How to reach me **madhuchokshi23@gmail.com** | **https://www.linkedin.com/in/madhvesh-chokshi/**
 
 - 📄 Know about my experiences [https://madhvesh.me/](https://madhvesh.me/)
 
